@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+
+    <test name="Regression1">
+        <classes>
+
+            <class name="TestPages.RegistrationTest"/>
+            <class name="TestPages.LogoutTest"/>
+            <class name="TestPages.LoginTest"/>
+            <class name="TestPages.BookingDoctorTest"/>
+            <class name="TestPages.CancelAppointmentTest"/>
+            <class name="TestPages.VezeetaServicesTest"/>
+            <class name="TestPages.PharmacyTest"/>
+            <class name="TestPages.MakeCallTest"/>
+            <class name="TestPages.CancelAppointmentTest"/>
+            <class name="TestPages.VisitHomeTest"/>
+            <class name="TestPages.FinishTest"/>
+
+        </classes>
+    </test>
+</suite>
