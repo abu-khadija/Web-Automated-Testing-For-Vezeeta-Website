@@ -6,7 +6,17 @@ I made automation testing usting:
                                         1- Selenuim 
                                         2- testNG
                                         3- POM Design Pattern
-testing the next :
+
+
+
+
+
+
+
+
+
+
+Testing the following :
                    1- Regestration
                    2- Login
                    3- Booking an appointmrnt with doctor
